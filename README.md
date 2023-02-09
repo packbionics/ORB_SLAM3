@@ -56,8 +56,10 @@ We have tested the library in **Ubuntu 16.04** and **18.04**, but it should be e
 ## C++11 or C++0x Compiler
 We use the new thread and chrono functionalities of C++11.
 
-## Pangolin
+## Pangolin (v0.6)
 We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and user interface. Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.
+
+Note: It may be required to clone the v0.6 tagged version.
 
 ## OpenCV
 We use [OpenCV](http://opencv.org) to manipulate images and features. Dowload and install instructions can be found at: http://opencv.org. **Required at leat 3.0. Tested with OpenCV 3.2.0 and 4.4.0**.
